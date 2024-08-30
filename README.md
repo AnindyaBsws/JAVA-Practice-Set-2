@@ -1,2 +1,2 @@
 # JAVA-Practice-Set-2
-All about JAVA
+This repo contains intermediate JAVA programms
